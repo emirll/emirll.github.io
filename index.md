@@ -1,2 +1,1 @@
-## MIRLL
-[link](https://emirll.github.io/)
+## [MIRLL](https://emirll.github.io/)
